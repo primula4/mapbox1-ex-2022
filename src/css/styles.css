@@ -1,0 +1,14 @@
+body{
+    margin:0;
+}
+#map{
+    height: 50vh;
+    width: 100;
+}
+
+.map-container{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+}
